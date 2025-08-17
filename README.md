@@ -80,13 +80,9 @@ In my free time, I love connecting with people from diverse fields—learning ab
 
 ### 🐍 GitHub Contributions
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pshreeya/pshreeya/output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pshreeya/pshreeya/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/pshreeya/Shreeya-Prasanna/output/snake.svg" alt="Snake animation" />
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pshreeya/Shreeya-Prasanna/output/snake.svg" alt="GitHub contributions 2025" />
+</p>
 
 
 ---
