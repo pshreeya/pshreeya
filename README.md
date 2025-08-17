@@ -63,9 +63,15 @@
 
 ### 🦄 Featured Blog Interviews (The Unicorns)
 In my free time, I love connecting with people from diverse fields—learning about their journeys, the exciting projects they’re building, and the skills that drive their success. These interviews spark my curiosity and inspire me to think big! Here are my 3 latest interviews:  
-- [🌍 Straight from the Heart: Viren Shetty's Mission to Redefine Global Healthcare with Narayana Health](https://theunicornsblog.substack.com/p/straight-from-the-heart-viren-shettys)  
-- [💡 A-view from the top: Akshay Maharaj’s Journey from High School Hustler to a Global Game-Changer](https://theunicornsblog.substack.com/p/a-view-from-the-top-akshay-maharajs)  
-- [🧠 Empowering Autistic Children with Ruchi Ambike, Founder @ TLC Speech Therapy](https://theunicornsblog.substack.com/p/empowering-autistic-children-with)  
+- [![Viren Shetty Blog](https://substackcdn.com/image/fetch/$s_!FuPS!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc3c8bcf-3542-4ce7-81ba-ff8b9eb1351b_1920x1080.png)](https://theunicornsblog.substack.com/p/straight-from-the-heart-viren-shettys)  
+  🌍 Straight from the Heart: Viren Shetty's Mission to Redefine Global Healthcare with Narayana Health
+
+- [![Akshay Maharaj Blog](https://substackcdn.com/image/fetch/$s_!wIad!,w_320,h_213,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37382426-9a26-43ff-8c7f-42ee21bb7eb9_1600x900.jpeg)](https://theunicornsblog.substack.com/p/a-view-from-the-top-akshay-maharajs)  
+  💡 A-view from the top: Akshay Maharaj’s Journey from High School Hustler to a Global Game-Changer
+
+- [![Ruchi Ambike Blog](https://substackcdn.com/image/fetch/$s_!gCDM!,w_320,h_213,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d050943-82d1-44a5-af95-ffd398d0406d_1920x1080.png)](https://theunicornsblog.substack.com/p/empowering-autistic-children-with)  
+  🧠 Empowering Autistic Children with Ruchi Ambike, Founder @ TLC Speech Therapy
+
 
 ---
 
