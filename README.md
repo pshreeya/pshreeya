@@ -1,37 +1,87 @@
-<h1 align="center">Hi 👋, I'm Shreeya!</h1>
-<h3 align="center">A passionate and aspiring software engineer.</h3>
+<h1 align="center">Hi 👋, I'm Shreeya</h1>
+<h3 align="center">A curious, driven, and aspiring Software Engineer 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pshreeya&label=Profile%20views&color=0e75b6&style=flat" alt="pshreeya" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pshreeya" alt="pshreeya" /></a> </p>
-
-- 🔭 I’m currently working at **Aview as a Front-End Engineer Intern**
-
-- 🌱 I’m currently learning **APIs, Database Design and Security Analysis,**
-
-- 👯 I’m looking to collaborate on **front-end, back-end and security projects**
-
-- 📝 I regularly write articles on [https://substack.com/@theunicornsblog?utm_source=about-page](https://substack.com/@theunicornsblog?utm_source=about-page)
-
-- 💬 Ask me about **UI/UX, My thoughts on World's Biggest Problems (WBP), Travel**
-
-- 📫 Send me an email **pshreeya07@gmail.com**
-
-- ⚡ Fun fact **I love cooking veg food 🟢! My favorite recipe is Cucumber Rice!**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@pshreeya07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pshreeya07" height="30" width="40" /></a>
-<a href="/https://theunicornsblog.substack.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://theunicornsblog.substack.com/feed" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.tenor.com/zCTiNXF73CEAAAAj/work-thinking.gif" width="300"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pshreeya&show_icons=true&locale=en&layout=compact" alt="pshreeya" /></p>
+### 👩‍💻 About Me
+- 🔭 Currently working as a **Front-End Engineer Intern @ Aview**
+- 🌱 Learning and exploring **APIs, Database Design, and Security Analysis**
+- 👯 Open to collaborating on **front-end, back-end, and security projects**
+- 📝 I share inspiring stories on [The Unicorns Blog](https://substack.com/@theunicornsblog?utm_source=about-page) ✨
+- 💬 Talk to me about **UI/UX, World’s Biggest Problems (WBP), Travel, and Innovation**
+- 📫 Reach me at **pshreeya07@gmail.com**
+- ⚡ Fun fact: **I love cooking vegetarian food 🟢 — ask me about my Cucumber Rice recipe!**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pshreeya&show_icons=true&locale=en" alt="pshreeya" /></p>
+---
+
+<!--### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pshreeya&locale=en&layout=compact&card_width=400&langs_count=8&theme=dracula&hide_border=false" height="170" alt="languages graph" />
+</div>-->
+
+---
+
+### 🛠️ Languages & Tools
+<p align="center">
+  <!-- Core -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
+  
+  <!-- Tools -->
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/N/n8n-logo-8BCDA94B82-seeklogo.com.png" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/P5.js_icon.svg" width="40" height="40"/>
+  <img src="https://immersiveweb.dev/static/webxr-logo-50faee118c6aa93ffbfa29d656e0ac53.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/elm.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 🦄 Featured Blog Interviews (The Unicorns)
+In my free time, I love connecting with people from diverse fields—learning about their journeys, the exciting projects they’re building, and the skills that drive their success. These interviews spark my curiosity and inspire me to think big! Here are my 3 latest interviews:  
+- [🌍 Straight from the Heart: Viren Shetty's Mission to Redefine Global Healthcare with Narayana Health](https://theunicornsblog.substack.com/p/straight-from-the-heart-viren-shettys)  
+- [💡 A-view from the top: Akshay Maharaj’s Journey from High School Hustler to a Global Game-Changer](https://theunicornsblog.substack.com/p/a-view-from-the-top-akshay-maharajs)  
+- [🧠 Empowering Autistic Children with Ruchi Ambike, Founder @ TLC Speech Therapy](https://theunicornsblog.substack.com/p/empowering-autistic-children-with)  
+
+---
+
+### 🎶 Music Corner
+<p align="center">
+  <a href="https://open.spotify.com/user/f96vc44rwfvgy4zz09l20rd7d">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=f96vc44rwfvgy4zz09l20rd7d&width=600&count=6&unique=false" alt="Spotify recently played" />
+  </a>
+</p>
+
+---
+
+### 🐍 GitHub Contributions
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pshreeya/pshreeya/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
