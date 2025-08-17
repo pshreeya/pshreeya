@@ -23,9 +23,9 @@
 <!--### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pshreeya&locale=en&layout=compact&card_width=400&langs_count=8&theme=dracula&hide_border=false" height="170" alt="languages graph" />
-</div>-->
+</div>
 
----
+----->
 
 ### 🛠️ Languages & Tools
 <p align="center">
@@ -51,11 +51,11 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/N/n8n-logo-8BCDA94B82-seeklogo.com.png" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/P5.js_icon.svg" width="40" height="40"/>
-  <img src="https://immersiveweb.dev/static/webxr-logo-50faee118c6aa93ffbfa29d656e0ac53.png" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="40" height="40"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" width="40" height="40"/>
+  <img src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-Logo-png-transparent-background.png" width="40" height="40"/>
+  <img src="https://miro.medium.com/1*h9G7gjWQeQVwqkbhHVvOQg.png" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/34385910?s=280&v=4" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/elm.svg" width="40" height="40"/>
 </p>
@@ -70,14 +70,14 @@ In my free time, I love connecting with people from diverse fields—learning ab
 
 ---
 
-### 🎶 Music Corner
+<!--### 🎶 Music Corner
 <p align="center">
   <a href="https://open.spotify.com/user/f96vc44rwfvgy4zz09l20rd7d">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=f96vc44rwfvgy4zz09l20rd7d&width=600&count=6&unique=false" alt="Spotify recently played" />
   </a>
 </p>
 
----
+----->
 
 ### 🐍 GitHub Contributions
 <p align="center">
