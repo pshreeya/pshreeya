@@ -61,7 +61,7 @@
 
 ---
 
-### 🦄 Featured Blog Interviews (The Unicorns)
+### 🦄 Blog Interviews (The Unicorns)
 In my free time, I love connecting with people from diverse fields—learning about their journeys, the exciting projects they’re building, and the skills that drive their success. These interviews spark my curiosity and inspire me to think big! Here are my 3 latest interviews:  
 
 <table>
