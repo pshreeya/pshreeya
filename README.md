@@ -103,7 +103,7 @@ In my free time, I love connecting with people from diverse fields—learning ab
 ### 🐍 GitHub Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pshreeya/pshreeya/306699d1d414873556c78cd1f0f84eb592882750/snake.svg?token=BABANQ4YIJSQZDDCT6AP563IUIO32" alt="GitHub contributions 2025" />
+  <img src="https://raw.githubusercontent.com/pshreeya/pshreeya/output/snake.svg" alt="GitHub contributions 2025" />
 </p>
 
 
