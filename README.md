@@ -10,9 +10,9 @@
 ---
 
 ### 👩‍💻 About Me
-- 🔭 Currently working as a **Front-End Engineer Intern @ Aview**
-- 🌱 Learning and exploring **APIs, Database Design, and Security Analysis**
-- 👯 Open to collaborating on **front-end, back-end, and security projects**
+- 🔭 Currently a **Computer Science** student at McMaster University
+- 🌱 Learning and exploring **Reinforcement Learning**
+- 👯 Open to collaborating on **front-end, back-end, and artificial intelligence projects**
 - 📝 I share inspiring stories on [The Unicorns Blog](https://substack.com/@theunicornsblog?utm_source=about-page) ✨
 - 💬 Talk to me about **UI/UX, World’s Biggest Problems (WBP), Travel, and Innovation**
 - 📫 Reach me at **pshreeya07@gmail.com**
@@ -103,7 +103,7 @@ In my free time, I love connecting with people from diverse fields—learning ab
 ### 🐍 Snake is my fav game!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pshreeya/pshreeya/ece6a5cc5064cc5cccda235b0af962800f792f54/snake.svg?token=BABANQ3U2JTIIFM3AN3PIYDIUISQ4" alt="GitHub contributions 2025" />
+  ![snake gif](https://github.com/pshreeya/pshreeya/blob/output/snake.svg)
 </p>
 
 
