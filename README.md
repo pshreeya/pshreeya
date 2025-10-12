@@ -102,9 +102,7 @@ In my free time, I love connecting with people from diverse fields—learning ab
 
 ### 🐍 Snake is my fav game!
 
-<p align="center">
-  ![snake gif](https://github.com/pshreeya/pshreeya/blob/output/snake.svg)
-</p>
+![snake gif](https://github.com/pshreeya/pshreeya/blob/output/snake.svg)
 
 
 ---
