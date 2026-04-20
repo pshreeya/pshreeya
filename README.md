@@ -26,17 +26,20 @@
 </div>
 
 ----->
-
 ### 🛠️ Languages & Tools
 
 #### 💻 Core Languages & Frameworks
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript" alt="TypeScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js" alt="Next.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++" alt="C++" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" alt="Node.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" title="PHP" alt="PHP" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL" alt="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40" title="Ruby" alt="Ruby" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" title="Django" alt="Django" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,py,c,nodejs,php,postgres,haskell&perline=14" alt="Core Languages & Frameworks" />
+  </a>
 </p>
 
 #### ⚙️ Tools & Platforms
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" title="Tailwind CSS" alt="Tailwind CSS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma" alt="Figma" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code" alt="VS Code" /> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" title="Arduino" alt="Arduino" /> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40" height="40" title="Framer" alt="Framer" /> <img src="https://cdn.worldvectorlogo.com/logos/axios-1.svg" width="40" height="40" title="Axios" alt="Axios" /> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40" height="40" title="Postman" alt="Postman" /> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" width="40" height="40" title="n8n" alt="n8n" /> <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="40" height="40" title="Canva" alt="Canva" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original.svg" width="40" height="40" title="Elm" alt="Elm" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,tailwind,figma,vscode,arduino,postman,elm&perline=14" alt="Tools & Platforms" />
+  </a>
 </p>
 
 ---
