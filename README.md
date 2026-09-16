@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreeya</h1>
-<h3 align="center">A curious, driven, and aspiring Software Engineer 🚀</h3>
-
----
+<!-- <h3 align="center">A curious, driven, and aspiring Software Engineer 🚀</h3> -->
 
 <p align="center">
   <img src="https://media.tenor.com/zCTiNXF73CEAAAAj/work-thinking.gif" width="300"/>
@@ -14,7 +12,7 @@
 - 🌱 Learning and exploring **Reinforcement Learning**
 - 👯 Open to collaborating on **front-end, back-end, and artificial intelligence projects**
 - 📝 I share inspiring stories on [The Unicorns Blog](https://substack.com/@theunicornsblog?utm_source=about-page) ✨
-- 💬 Talk to me about **UI/UX, World’s Biggest Problems (WBP), Travel, and Innovation**
+- 💬 Talk to me about **World’s Biggest Problems (WBP), Emerging Tech, and Innovation**
 - 📫 Reach me at **pshreeya07@gmail.com**
 - ⚡ Fun fact: **I love cooking vegetarian food 🟢 — ask me about my Cucumber Rice recipe!**
 
@@ -43,7 +41,7 @@
 </p>
 
 ---
-
+<!--
 ### 🦄 Blog Interviews (The Unicorns)
 In my free time, I love connecting with people from diverse fields—learning about their journeys, the exciting projects they’re building, and the skills that drive their success. These interviews spark my curiosity and inspire me to think big! Here are my 3 latest interviews:  
 
@@ -80,8 +78,7 @@ In my free time, I love connecting with people from diverse fields—learning ab
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=f96vc44rwfvgy4zz09l20rd7d&width=600&count=6&unique=false" alt="Spotify recently played" />
   </a>
 </p>
-
------>
+-->
 
 ### 🐍 Snake is my fav game!
 
